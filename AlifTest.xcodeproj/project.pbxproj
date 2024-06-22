@@ -23,6 +23,10 @@
 		46A548972C26E86F00F1AEEE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		46A548992C26E86F00F1AEEE /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		46A5489C2C26E86F00F1AEEE /* AlifTest.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AlifTest.xcdatamodel; sourceTree = "<group>"; };
+		46A548A32C26F24F00F1AEEE /* SorArray.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SorArray.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		46A548A42C26F2A400F1AEEE /* ReplaceNegativesWithZero.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ReplaceNegativesWithZero.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		46A548A52C2712E900F1AEEE /* FindMaxMin.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = FindMaxMin.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		46A548A62C271A9500F1AEEE /* SumArrayElements.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SumArrayElements.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +43,10 @@
 		46A548842C26E86D00F1AEEE = {
 			isa = PBXGroup;
 			children = (
+				46A548A62C271A9500F1AEEE /* SumArrayElements.playground */,
+				46A548A52C2712E900F1AEEE /* FindMaxMin.playground */,
+				46A548A42C26F2A400F1AEEE /* ReplaceNegativesWithZero.playground */,
+				46A548A32C26F24F00F1AEEE /* SorArray.playground */,
 				46A5488F2C26E86D00F1AEEE /* AlifTest */,
 				46A5488E2C26E86D00F1AEEE /* Products */,
 			);
